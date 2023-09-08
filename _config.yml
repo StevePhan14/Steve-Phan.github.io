@@ -88,7 +88,7 @@ author:
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=vi&authuser=1&user=yfYcCkcAAAAJ"
   email            : "phantranthanhtruc@muce.edu.vn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/Truc-Phan-14"
+  researchgate     :  "https://www.researchgate.net/profile/Truc-Phan-14"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Steve-Phan.github.io"
+  github           : "https://github.com/StevePhan14"
   google_plus      :
   keybase          :
   instagram        :
