@@ -11,7 +11,7 @@ title                    : "Steve Phan'Home page"
 title_separator          : "-"
 name                     : &name "Steve Phan"
 description              : &description "personal description"
-url                      : https://Steve-Phan.github.io
+url                      : http://steve-phan.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "StevePhan14/Steve-Phan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
