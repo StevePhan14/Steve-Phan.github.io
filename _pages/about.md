@@ -7,60 +7,56 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I obtained my Ph.D degree in Civil and
-Disaster Prevention Engineering from the
-National Taipei University of Technology,
-Taiwan, and working as a main lecturer in
-the Dept. of Bridge and Road of Faculty of
-Civil Engineering, Mientrung University of
-Civil Engineering (MUCE), Ministry of
-Construction of Vietnam (MOC). I’m a
-member of the Vietnamese Geotechnical
-Society (VSSMGE) and the International
-Geosynthetics Society (IGS).
+I obtained my Ph.D degree in Civil and Disaster Prevention Engineering from the National Taipei University of Technology, Taiwan, and working as a main lecturer in the Dept. of Bridge and Road of Faculty of Civil Engineering, Mientrung University of Civil Engineering (MUCE), Ministry of Construction of Vietnam (MOC). I’m a member of the Vietnamese Geotechnical Society (VSSMGE) and the International Geosynthetics Society (IGS).
 Research interest:
- Application of Geosynthetic Materials
+Application of Geosynthetic Materials
 in Substanable Development
  Landslides
  Renewable Energy
  Natural Disasters
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
-A data-driven personal website
+EDUCATIONS
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Danang University of Science and Technology
+2003 - 2008
+B.Eng, Transportation Engineering
+Ho Chi Minh City University of Technology
+2011 - 2013
+M.S, Geotechnical and Geoenvironmental Engineering
+National Taipei University of Technology
+2018 - 2022
+Ph.D, Civil and Disaster Prevention Engineering
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
+ACHIEVEMENTS
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+2014, Scholarship for Short-term Study by Jica (Japan) through ASEAN University Network/Southeast Asia Engineering Education Development
+Network (AUN/SEED-Net) for members to take part in the conferences in Myanmar.
+2016, Scholarship for Short-term Study by Jica (Japan) through ASEAN University Network/Southeast Asia Engineering Education Development
+Network (AUN/SEED-Net) for members to take part in the conferences in Thailand.
+2016, Scholarship for Short-term Study by Jica (Japan) through ASEAN University Network/Southeast Asia Engineering Education Development
+Network (AUN/SEED-Net) for members to take part in the conferences in Malaysia.
+2018, Full scholarship for Ph.d program (4 years) in Geotechnical Engineering, National Cheng Kung University (NCKU), Tainan, Taiwan.
+2018, Full scholarship for Ph.D. program (4 years) in Geotechnical Engineering, National Taipei University of Technology (NTUT), Taipei, Taiwan.
+2019, Scholarship for Engineering Training Camp for Overseas Students supported by Sinotech Engineering Consultants,Taipei, Taiwan.
 
-Create content & metadata
+ANOTHER ACTIVITIES
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+ Co-Founder of Vietnamese Experts Association in Taiwan (VNEAT)
+https://vneat.org/
+ Member of Vietnam Innovative and Intellectual Network in Taiwan (VIN Taiwan)
+https://trithuctretw.com/
+ Founder of M-Tech Vietnam Company with mission to transfer the high-tech
+from Taiwan to Vietna
 
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
+PROFESSIONAL TRAINING COURSES
 ------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+ Applied Course on Engineering Geology and Rock Mechanics in Construction of
+Underground Works, Dams, and Slopes by Vietnamese Society for Soil
+Mechanics & Geotechnical Engineering (VSSMGE),2013, Da Nang City,
+Vietnam.
+Training Course for Geotechnical Engineering, 16th Asian Regional Conference
+on Soil Mechanics and Geotechnical Engineering (16ARC), 2019, Taipei,
+Taiwan.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
