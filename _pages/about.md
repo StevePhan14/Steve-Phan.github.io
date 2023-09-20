@@ -1,4 +1,4 @@
-![image](https://github.com/StevePhan14/steve-phan.github.io/assets/144257492/1de0b024-0d64-4119-bc65-157bc01d6db9)---
+---
 permalink: /
 title: "Hello there, I'm Steve"
 excerpt: "About me"
