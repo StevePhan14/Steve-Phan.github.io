@@ -15,13 +15,13 @@ I’m a member of the Vietnamese Geotechnical Society (VSSMGE) and the Internati
 
 Research interest:
 
-Application of Geosynthetic Materials in Substanable Development:.
+Application of Geosynthetic Materials in Substanable Development.
 
- Landslides
+Landslides
 
- Renewable Energy
+Renewable Energy
 
- Natural Disasters
+Natural Disasters
 
 EDUCATIONS
 ======
