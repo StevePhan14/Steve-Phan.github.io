@@ -1,7 +1,9 @@
+
 ---
 title: "RCPPO"
-excerpt: "Application of Geosynthetic Materials in Substanable Development. <br/><img src="/images/Vertiver. png >"
+excerpt: "Application of Geosynthetic Materials in Substanable Development. <br/><img src="/images/Vertiver.png >"
 collection: portfolio
+
 ---
 In this project I implemented the [Reward Constrained Policy Optimization Paper] (https://openreview.net/pdf?id=SkfrvsA9FX) by
 Tessler et al. into stable-baselines3 implementation of PPO.
